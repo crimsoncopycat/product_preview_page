@@ -1,7 +1,8 @@
 {
   "name": "product_preview_card_component",
   "version": "0.1.0",
-  "homepage" : "https://crimsoncopycat.github.io/product_preview_page/",
+  "homepage" : "https://crimsoncopycat.github.io/product_preview_page",
+  "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.1.1",
     "@testing-library/jest-dom": "^5.14.1",
@@ -20,7 +21,7 @@
   },
   "scripts": {
        "predeploy": "yarn build",
-       "deploy": "gh-pages -b gh-pages -d build",
+       "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
