@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://preview-card-component-shaggy.herokuapp.com/)
+- Solution URL: [https://preview-card-component-shaggy.herokuapp.com](https://preview-card-component-shaggy.herokuapp.com/)
 
 
 ### Built with
